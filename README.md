@@ -16,10 +16,10 @@
 
 1. Установите Python 3.12+.
 2. Установите библиотеки: `pip install pandas matplotlib seaborn networkx tkinter sqlite3`.
-3. Запустите `python main.py`.
+
 
 ## Использование
-
+- Запустите `python main.py`.
 - Добавляйте клиентов, товары, заказы через GUI.
 - Анализируйте данные во вкладке "Анализ".
 - Тестируйте: `python -m unittest test_models.py` и `python -m unittest test_analysis.py`.
