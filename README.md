@@ -14,8 +14,8 @@
 
 ## Установка
 
-1. Установите Python 3.12+.
-2. Установите библиотеки: `pip install pandas matplotlib seaborn networkx tkinter sqlite3`.
+- Установите Python 3.12+.
+- Установите библиотеки: `pip install pandas matplotlib seaborn networkx tkinter sqlite3`.
 
 
 ## Использование
