@@ -10,4 +10,3 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = OrderManagementApp(root)
     root.mainloop()
-    "Ага"
